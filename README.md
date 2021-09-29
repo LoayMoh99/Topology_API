@@ -21,9 +21,9 @@ Finally; it is easy to be used compared to it's performance and I used to develo
 ## How to use the API?
 
 1. First of all download "Dart" from here (https://dart.dev/get-dart)
-2. Clone the repo and the get the dependencies using '''pub get'''
-3. Then run the source file using '''dart run'''
-4. To run tests use '''dart test'''
+2. Clone the repo and the get the dependencies using `pub get`
+3. Then run the source file using `dart run`
+4. To run tests use ```dart test```
 
 ### This is testcases screenshot:
 
