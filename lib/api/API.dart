@@ -2,9 +2,9 @@
   Topology API Library for being used in sources files..
 */
 
-//Some Assumptions::
+//Some Best Practicies::
 /*
-  -Topology Json filename is the TopologyID ;
+  -Topology Json filename prefered to be the TopologyID ;
     for preventing making more than one file for each topology 
 */
 export '../models/topology.dart';

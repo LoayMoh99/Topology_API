@@ -2,7 +2,7 @@ import 'package:TopologyAPI/api/API.dart';
 
 void main(List<String> args) {
   print("Before edit");
-  String? topId = readJSON("top33333.json");
+  String? topId = readJSON("top1.json");
   Map<String, Topology> tops = queryTopologies();
   Topology t1 = tops[topId] ?? Topology(id: "defaultTop", components: []);
   List<Component> devices = queryDevices("top1");
