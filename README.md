@@ -8,7 +8,7 @@ An API Library for providing the functionality to access, manage and store devic
 
 ### Some Best Practicies::
 
-+Topology Json filename prefered to be the TopologyID ;for preventing making more than one file for each topology
++ Topology Json filename prefered to be the TopologyID ;for preventing making more than one file for each topology
 
 ## Why Dart?!
 
